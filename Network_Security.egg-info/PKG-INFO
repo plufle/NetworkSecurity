@@ -6,7 +6,7 @@ Author-email: [EMAIL_ADDRESS]
 Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
-Requires-Dist: pymongo
+Requires-Dist: pymongo[srv]==3.11
 Requires-Dist: certifi
 Dynamic: author
 Dynamic: author-email
